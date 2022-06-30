@@ -16,16 +16,6 @@ Apresentação
 ° 🚀 Me aprofundando em <strong>JavaScript.</strong>
 
 
-
-<div>
-<hr>
-<a href="https://github.com/Techmark-Plataform">
-<img height="160em"/> 
-<img height="160em" />
-<img height="250em" width="530em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=Techmark.Plataform&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=vision-friendly-dark">
-<hr>
-</div>
-
 <h2 align="center">Linguagens e ferramentas</h2>
 
 
